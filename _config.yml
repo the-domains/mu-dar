@@ -1,4 +1,4 @@
-typography_spectrum: 0.3372681
+layout_spectrum: 0.05902192
 color:
   saturation: 0.09009151
   lightness: 0.4801685
@@ -10,7 +10,5 @@ color:
     - '#B3B2A7'
     - '#587D8D'
   rhythmicContrast: 0.9700401
-layout_spectrum: 0.05902192
-name: Mu_Dar
-title: MU_DAR
-description: conceitos e sistemas para outras formas de sociedade
+typography_spectrum: 0.3372681
+name: Mu-Dar
